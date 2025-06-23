@@ -68,7 +68,7 @@ Ollama LLaMA 3.2:
 ![Ollama UI 2](https://i.imgur.com/ofCWnB2.jpg)
 
 # Sonuç
-Bu projede hem Ollama LLaMA 3.2 hem de OpenAI GPT-3.5-turbo modelleri kullanılarak finansal danışmanlık alanında bir chatbot geliştirilmiş ve performansları karşılaştırılmıştır. Intent sınıflifikasyon görevi açısından Ollama modeli OpenAI’ye göre biraz daha iyi sonuçlar vermiştir. Ancak, kullanıcı deneyimi ve yanıtların akıcılığı bakımından OpenAI modeli daha başarılı bulunmuştur.
+Bu projede hem Ollama LLaMA 3.2 hem de OpenAI GPT-3.5-turbo modelleri kullanılarak finansal danışmanlık alanında bir chatbot geliştirilmiş ve performansları karşılaştırılmıştır. Intent classification görevi açısından Ollama modeli OpenAI’ye göre biraz daha iyi sonuçlar vermiştir. Ancak, kullanıcı deneyimi ve yanıtların akıcılığı bakımından OpenAI modeli daha başarılı bulunmuştur.
 
 Her iki modelin de performansı, kullanılan veri setinin sınırlı büyüklüğü ve dengesiz intent dağılımından etkilenmiştir. Bu nedenle modellerin doğruluğunu artırmak için daha büyük ve dengeli veri setleri ile eğitilmeleri gerekmektedir. Ayrıca, RAG mimarisi ile metin tabanlı bilgi erişiminin chatbotların yanıt kalitesini artırdığı gözlemlenmiştir.
 
